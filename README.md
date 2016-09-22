@@ -11,6 +11,6 @@ Your statements should include:
 * Your objectives for the project
 * Your priorities for the project
 * What you plan to measure to achieve your educational goal and address your problem
-    * Including an fake data set
+    * **Including an fake data set**
 
 Good luck!
